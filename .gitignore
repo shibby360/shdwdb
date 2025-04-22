@@ -1,0 +1,3 @@
+dist/
+shdwdb.egg-info/
+test.py
